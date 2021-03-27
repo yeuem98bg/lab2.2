@@ -1,0 +1,19 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "main": "lab2.js",
+  "scripts": {
+    "start": "lab2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeuem98bg/lab2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yeuem98bg/lab2/issues"
+  },
+  "homepage": "https://github.com/yeuem98bg/lab2#readme",
+  "description": ""
+}
